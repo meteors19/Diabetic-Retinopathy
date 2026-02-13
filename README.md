@@ -1,13 +1,13 @@
 # Diabetic-Retinopathy
 **Diabetic Retinopathy Detection using Deep Learning**
 
-**Project Overview **
+**Project Overview**
 
 
 This project implements a custom Deep Learning pipeline to automate the detection of Diabetic Retinopathy (DR) from retinal fundus images. Utilizing the ResNet50 architecture and Transfer Learning, the model classifies eye scans into five distinct clinical stages: No DR, Mild, Moderate, Severe, and Proliferative.
 
 
-**Technical Stack & Skills **
+**Technical Stack & Skills**
 
 1. Deep Learning Framework: TensorFlow / Keras (Functional API).
 
@@ -35,4 +35,4 @@ This project implements a custom Deep Learning pipeline to automate the detectio
  
 2. Data: Ensure images are structured with a corresponding CSV containing id_code and diagnosis columns.
  
-3.Execution: Run the Jupyter Notebook to train the model and generate performance heatmaps.
+3. Execution: Run the Jupyter Notebook to train the model and generate performance heatmaps.
