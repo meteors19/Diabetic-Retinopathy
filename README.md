@@ -9,8 +9,8 @@ This project implements a custom Deep Learning pipeline to automate the detectio
 
 **Technical Stack & Skills **
 
-1. Deep Learning Framework: TensorFlow / Keras (Functional API)
-2. Computer Vision: OpenCV (Image normalization, resizing, and interpolation)
+1. Deep Learning Framework: TensorFlow / Keras (Functional API).
+2. Computer Vision: OpenCV (Image normalization, resizing, and interpolation).
 3.Architecture: ResNet50 (Pre-trained on ImageNet) with custom GlobalAveragePooling2D and Dense layers.
 > Data Pipeline: Advanced use of ImageDataGenerator for real-time augmentation and efficient batch processing via flow_from_dataframe.
 > Performance Optimization: Implementation of EarlyStopping to prevent overfitting and class_weight balancing to handle medical data skew.
